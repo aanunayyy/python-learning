@@ -14,3 +14,9 @@ type(d) #checking the data type of variable d
 #here we are using the type() function to check the data type of variable a, which will return <class 'int'> since a is an integer variable.
 
 #there are many datatypes such as list, dict, tuple don't woryy i will be covering them very soon.
+
+#in python or programming you can actually change data types 
+a = 5 #here a is a integer
+print(float(a)) #this will change a = 5 to a 5.0
+#print discussed in 3rd lecture
+
